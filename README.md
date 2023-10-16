@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Soy un Ingeniero Electrónico graduado de la Universidad Autónoma de Manizales, y actualmente estoy enfocado en mi pasión por la programación. Durante mi carrera, adquirí sólidos conocimientos en electrónica y ahora los combino con mis habilidades en desarrollo de software.
+Soy estudiante de Ingenieria Electrónica de la Universidad Autónoma de Manizales, y actualmente estoy enfocado en mi pasión por la programación. Durante mi carrera, adquirí sólidos conocimientos en electrónica y ahora los combino con mis habilidades en desarrollo de software.
 
 ## Sobre Mí
 
