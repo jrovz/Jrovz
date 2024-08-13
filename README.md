@@ -1,9 +1,7 @@
 ## Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades de programación a través de cursos en [Platzi](https://platzi.com).
 - 🚀 Me apasiona la electrónica, la robótica y la programación de sistemas embebidos.
 - 💡 Estoy interesado en proyectos que involucren Internet de las Cosas (IoT) y la automatización de procesos.
-- 📚 Me encanta aprender y compartir conocimientos con la comunidad de desarrollo.
 
 ## Tecnologías
 
